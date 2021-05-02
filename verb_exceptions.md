@@ -1,10 +1,12 @@
-# Congugare 1
+# Verb exceptions list 
 
-### a da
+## Congugare 1
 
-| Pronoun | Verb | Comment |
-| --- | --- |
-| Infinitive | a da | "to give" |
+#### a da
+
+| _**Pronoun**_ | _**Verb**_ | _**Comment**_ |
+| --- | --- | --- |
+| Infinitive | a da | "To give" |
 | Eu | dau | - |
 | Tu | dai | - |
 | El / Ea | dă | - |
