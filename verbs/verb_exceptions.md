@@ -18,7 +18,7 @@
 
 | _**Pronoun**_ | _**Verb**_ | _**Comment**_ |
 | --- | --- | --- |
-| Infinitive | a da | "To take" |
+| Infinitive | a lua | "To take" |
 | Eu | iau | - |
 | Tu | iei | - |
 | El / Ea | ia | - |
