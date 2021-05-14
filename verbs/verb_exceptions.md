@@ -37,3 +37,15 @@
 | Noi | stăm | - |
 | Voi | stați | - |
 | Ei / Ele | stau | Same as **Eu** *(not as El / Ea!)* |
+
+#### a mânca
+
+| _**Pronoun**_ | _**Verb**_ | _**Comment**_ |
+| --- | --- | --- |
+| Infinitive | a mânca | "To eat" |
+| Eu | mănânc | - |
+| Tu | mănânci | - |
+| El / Ea | mănâncă | - |
+| Noi | mâncăm | - |
+| Voi | mâmcați | - |
+| Ei / Ele | mănâncă | - |
