@@ -89,3 +89,29 @@
 | Noi | spălăm | - |
 | Voi | spălați | - |
 | Ei / Ele | sp**a**lă | - |
+
+## Congugare 2
+
+### a vrea
+
+| _**Pronoun**_ | _**Verb**_ | _**Comment**_ |
+| --- | --- | --- |
+| Infinitive | a vrea | "To want" |
+| Eu | vreau | - |
+| Tu | vrei | - |
+| El / Ea | vrea | - |
+| Noi | vrem | - |
+| Voi | vreți | - |
+| Ei / Ele | vor | - |
+
+## a bea
+
+| _**Pronoun**_ | _**Verb**_ | _**Comment**_ |
+| --- | --- | --- |
+| Infinitive | a bea | "To drink" |
+| Eu | beau | - |
+| Tu | bei | - |
+| El / Ea | bea | - |
+| Noi | bem | - |
+| Voi | beți | - |
+| Ei / Ele | beau | - |
