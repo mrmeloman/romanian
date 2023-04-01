@@ -115,3 +115,15 @@
 | Noi | bem | - |
 | Voi | beți | - |
 | Ei / Ele | beau | - |
+
+## a avea
+
+| _**Pronoun**_ | _**Verb**_ | _**Comment**_ |
+| --- | --- | --- |
+| Infinitive | a avea | "To have" |
+| Eu | am | - |
+| Tu | ai | - |
+| El / Ea | are | - |
+| Noi | avem | - |
+| Voi | aveți | - |
+| Ei / Ele | au | - |
